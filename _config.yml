@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Og Gyu Lee(이옥규)"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/img.jpg"
   bio    : "Hi, I'm a master student in UNIST, Korea. I am interested in 3D vision, reflection removal, 
   deep learning and may others."
   links:
