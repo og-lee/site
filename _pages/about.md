@@ -25,36 +25,37 @@ University of Ulsan
 
 
 <h2><mark style='background-color: #f1f8ff'>Projects</mark></h2>
-**대규모 실감 3차원 공간 정보 복원을 위한 유리 왜곡 보정 기술 개발(NRF)**
-: (2021 \~ 2023)
+1. **대규모 실감 3차원 공간 정보 복원을 위한 유리 왜곡 보정 기술 개발(NRF)**
+: (2021 \~ 2023)\
 Reflection artifacts appear when LiDARs are used near glass or mirror-like reflective materials.
 In the project I tried to solve this problem with Deep Learning. Also I was involved in reflection removal in 2D images.
 
-* 2D Image Reflection Removal
-* 3D Point Cloud Reflection Removal
-* Python, Pytorch, Tensorflow, Open3D, PCL, Git, Docker
+    * 2D Image Reflection Removal
+    * 3D Point Cloud Reflection Removal
+    * Python, Pytorch, Tensorflow, Open3D, PCL, Git, Docker
 
-**이동 객체에 대한 증강현실 서비스 실현을 위한 정보-영상 정합기술 연구**
-: (2021 \~ 2022)
+2. **이동 객체에 대한 증강현실 서비스 실현을 위한 정보-영상 정합기술 연구**
+: (2021 \~ 2022)\
+explain here
+    * 2D Object Detection, Person Search  
+    * Python, Pytorch, Docker, Git 
 
-* 2D Object Detection, Person Search  
-* Python, Pytorch, Docker, Git 
 
-
-**레이저-비전기반의 조선해양플랜트 구조물 자율측정/자동설계시스템 고도화 및 상용화 개발**
-: (2019 \~ 2020)
+3. **레이저-비전기반의 조선해양플랜트 구조물 자율측정/자동설계시스템 고도화 및 상용화 개발**
+: (2019 \~ 2020)\
 In ship manufacturing companies there are many pipes comming from various sides. Eventually 
 the workers have to connect those pipes and this process is done manually by workers. In the project the motivation was to automate this process with 3 axis laser robot and find normals of the pipes.
 
-* 3-Axis laser robot calibration 
-* Motor speed control
-* C++, MATLAB, QT(gui program)
+    * 3-Axis laser robot calibration 
+    * Motor speed control
+    * C++, MATLAB, QT(gui program)
 
-**통학차량 안전관리 시스템 및 영상기반 알림 어플리케이션 개발**
-: (2019 \~ 2020)
+4. **통학차량 안전관리 시스템 및 영상기반 알림 어플리케이션 개발**
+: (2019 \~ 2020)\
+explain here
 
-* Yolo, Object detection, Raspberry Pi 
-* Python 
+    * Yolo, Object detection, Raspberry Pi 
+    * Python 
 
 
 <h2><mark style='background-color: #f1f8ff'>Work Experience</mark></h2>
