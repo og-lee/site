@@ -7,7 +7,7 @@ last_modified_at: 2022-06-12
 <h2><mark style='background-color: #f1f8ff'>Education</mark></h2>
 Ulsan National Institute of Science and Tech(UNIST)
 : **Master, Electrical Engineering**
-(2021 \~ Current)
+(2021 \~ 2023)
 
 University of Ulsan
 : **Bachelor, Electrical Engineering**
@@ -21,12 +21,13 @@ University of Ulsan
 * Deep Learning Principals           (2021)       
 * Advanced Machine Learning          (2022)
 * AI toolkits                        (2022)  
+* 3D Brain shape analysis            (2022)  
 
 
 
 <h2><mark style='background-color: #f1f8ff'>Projects</mark></h2>
-1. **대규모 실감 3차원 공간 정보 복원을 위한 유리 왜곡 보정 기술 개발(NRF)**
-: (2021 \~ 2023)\
+1. **딥러닝 기반 유리 왜곡 모델링 및 영상 복원 기술 개발(NRF)**
+: (2021 \~ 2023)발
 Reflection artifacts appear when LiDARs are used near glass or mirror-like reflective materials.
 In the project I tried to solve this problem with Deep Learning. Also I was involved in reflection removal in 2D images.
 
@@ -50,12 +51,6 @@ the workers have to connect those pipes and this process is done manually by wor
     * Motor speed control
     * C++, MATLAB, QT(gui program)
 
-4. **통학차량 안전관리 시스템 및 영상기반 알림 어플리케이션 개발**
-: (2019 \~ 2020)\
-explain here
-
-    * Yolo, Object detection, Raspberry Pi 
-    * Python 
 
 
 <h2><mark style='background-color: #f1f8ff'>Work Experience</mark></h2>
