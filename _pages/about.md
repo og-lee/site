@@ -8,6 +8,7 @@ last_modified_at: 2022-06-12
 Ulsan National Institute of Science and Tech(UNIST)
 : **Master, Electrical Engineering**
 (2021 \~ 2023)
+: Master thesis - **Deep Learning-Based Framework for Large-Scale 3D Point Cloud Reflection Removal**
 
 University of Ulsan
 : **Bachelor, Electrical Engineering**
@@ -78,7 +79,7 @@ the workers have to connect those pipes and this process is done manually by wor
 * **이옥규**,이병룡 , “3축 레이저 측정시스템의 DH파라메터의 캘리브레이션”, 한국정밀공학회, 2020
 
 <h2><mark style='background-color: #f1f8ff'>Language</mark></h2>
-* English(TEPS 445/600), Advanced
+* English Toeic Speaking(Advanced Low 170)
 * Korean(native speaker)
 
 
