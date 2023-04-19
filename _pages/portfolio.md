@@ -11,7 +11,7 @@ scenes. We can find virtual points in LS3DPCs when terrestrial LiDARs captures r
 near reflective objects. These virtual points degrade the performance of applications that use LiDAR
 as their sensor. 
 <p align="center">
-    <img src="/assets/images/image1.png" alt="Girl in a jacket" style="width:700px;height:300px;">
+    <img src="/assets/images/image1.PNG" alt=" " style="width:700px;height:300px;">
 </p>
 <p align="center">
     <em> Fig. 1 The image shows principle of point cloud reflection and example of actual virtual points.</em>
