@@ -60,8 +60,10 @@ plugins:
 author:
   name   : "Og Gyu Lee(이옥규)"
   avatar : "/assets/images/img.jpg"
-  bio    : "Hi, I'm a master student in UNIST, Korea. I am interested in 3D vision, reflection removal, 
-  deep learning and may others."
+  # bio    : "Hi, I'm a master student in UNIST, Korea. I am interested in 3D vision, reflection removal, 
+  bio    : "Hi, I'm currently working as a machine vision researcher in Hyundai-Steel Company. 
+  My job is to carry out and plan machine vision projects for steel processing.
+  I am interested in 2D & 3D machine vision, deep learning and may others."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
