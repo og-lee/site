@@ -5,12 +5,12 @@ layout: single
 last_modified_at: 2024-10-11
 ---
 <h2><mark style='background-color: #f1f8ff'>Education</mark></h2>
-Ulsan National Institute of Science and Tech(UNIST)
+Ulsan National Institute of Science and Tech(UNIST, 울산과학기술원)
 : **Master, Electrical Engineering**
 (2021 \~ 2023)
-: Master thesis - **Deep Learning-Based Framework for Large-Scale 3D Point Cloud Reflection Removal**
-
-University of Ulsan
+: Master thesis - **Deep Learning-B원sed Framework for Large-Scale 3D Point Cloud Reflection Removal**
+교
+University of Ulsan (울산대학교)
 : **Bachelor, Electrical Engineering**
 (2015 \~ 2020)
 
@@ -27,8 +27,15 @@ University of Ulsan
 
 
 <h2><mark style='background-color: #f1f8ff'>Projects</mark></h2>
-1. **딥러닝 기반 유리 왜곡 모델링 및 영상 복원 기술 개발(NRF)**
-: (2021 \~ 2023)발
+
+1. **철강 공정 머신비전 프로젝트 수행**
+: (2023 \~ 현재)
+    * 3차원 부피 측정 관련 프로젝트 진행  (point cloud, 3D)
+    * CCTV 활용 철강제품 머신비전 프로젝트 진행 (OpenCV, machine vision)
+    * AI 활용 결함 분류 프로젝트 진행 (CNN, Classification, Pytorch)   
+
+2. **딥러닝 기반 유리 왜곡 모델링 및 영상 복원 기술 개발(NRF)**
+: (2021 \~ 2023)
 Reflection artifacts appear when LiDARs are used near glass or mirror-like reflective materials.
 In the project I tried to solve this problem with Deep Learning. Also I was involved in reflection removal in 2D images.
 
@@ -36,14 +43,14 @@ In the project I tried to solve this problem with Deep Learning. Also I was invo
     * 3D Point Cloud Reflection Removal
     * Python, Pytorch, Tensorflow, Open3D, PCL, Git, Docker
 
-2. **이동 객체에 대한 증강현실 서비스 실현을 위한 정보-영상 정합기술 연구**
+3. **이동 객체에 대한 증강현실 서비스 실현을 위한 정보-영상 정합기술 연구**
 : (2021 \~ 2022)\
-explain here
+Person search is a computer vision task that involves identifying a specific individual within a large dataset of images or videos. It's a crucial component in various applications
     * 2D Object Detection, Person Search  
     * Python, Pytorch, Docker, Git 
 
 
-3. **레이저-비전기반의 조선해양플랜트 구조물 자율측정/자동설계시스템 고도화 및 상용화 개발**
+4. **레이저-비전기반의 조선해양플랜트 구조물 자율측정/자동설계시스템 고도화 및 상용화 개발**
 : (2019 \~ 2020)\
 In ship manufacturing companies there are many pipes comming from various sides. Eventually 
 the workers have to connect those pipes and this process is done manually by workers. In the project the motivation was to automate this process with 3 axis laser robot and find normals of the pipes.
