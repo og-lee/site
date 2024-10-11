@@ -2,7 +2,7 @@
 permalink: /
 title: "Og Gyu Lee"
 layout: single 
-last_modified_at: 2022-06-12
+last_modified_at: 2024-10-11
 ---
 <h2><mark style='background-color: #f1f8ff'>Education</mark></h2>
 Ulsan National Institute of Science and Tech(UNIST)
@@ -61,6 +61,8 @@ the workers have to connect those pipes and this process is done manually by wor
 : *UNIST Visual Information Process Lab(VIP)*&nbsp;&nbsp;&nbsp;(01.2021 \~ 03.2021)
 * Research Intern 
 : *Ulsan University Intelligent Mechatronics Lab*&nbsp;&nbsp;&nbsp;(01.2019 \~ 12.2020)
+* Researcher  
+: *Hyundai-Steel Machine Vision Research Team*&nbsp;&nbsp;&nbsp;(07.2023 \~ present)
 
 <h2><mark style='background-color: #f1f8ff'>Research Interest & Experience</mark></h2>
 * 3D Point cloud reflection removal
@@ -73,6 +75,7 @@ the workers have to connect those pipes and this process is done manually by wor
 * Technologies/Frameworks: Pytorch, Tensorflow, Linux, GitHub, Git, Docker
 
 <h2><mark style='background-color: #f1f8ff'>Publication</mark></h2>
+* **Oggyu Lee**,Kyungdon Joo,Jae-Young Sim “Learning-Based Reflection-Aware Virtual Point Removal for Large-Scale 3D Point Clouds” , IEEE RA-L, Nov.2023
 * **이옥규**,심재영, “3차원 포인트 클라우드와 2차원 영상을 활용한 3차원 객체 검출” , IPIU, Feb.2022
 * Byeong-Ju Han, Jae-Won Yang, **Oggyu Lee**, and Jae-Young Sim, “Context-based matching refinement for person search” , APSIPA ASC, Dec.2021
 * **이옥규**,심재영, “LiDAR 기반 포인트 클라우드 획득 및 전처리” , 방송과 미디어, Apr.2021
