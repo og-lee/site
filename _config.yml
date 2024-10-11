@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/img.jpg"
   # bio    : "Hi, I'm a master student in UNIST, Korea. I am interested in 3D vision, reflection removal, 
   bio    : "Hi, I'm currently working as a machine vision researcher in Hyundai-Steel Company. 
-  My job is to carry out and plan machine vision projects for steel processing.
-  I am interested in 2D & 3D machine vision, deep learning and may others."
+  My job is to carry out and plan machine vision projects for steel manufacturing processing.
+  I am interested in 2D & 3D machine vision, deep learning and many others."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
