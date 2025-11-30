@@ -2,7 +2,7 @@
 permalink: /
 title: "Og Gyu Lee"
 layout: single 
-last_modified_at: 2024-10-11
+last_modified_at: 2025-11-30
 ---
 
 
@@ -47,7 +47,7 @@ Ulsan National Institute of Science and Tech(UNIST, 울산과학기술원)
 : **Master, Electrical Engineering**
 (2021 \~ 2023)
 : Master thesis - **Deep Learning-Based Framework for Large-Scale 3D Point Cloud Reflection Removal**
-교
+
 University of Ulsan (울산대학교)
 : **Bachelor, Electrical Engineering**
 (2015 \~ 2020)
