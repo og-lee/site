@@ -89,7 +89,7 @@ the workers have to connect those pipes and this process is done manually by wor
 * **이옥규**,이병룡 , “3축 레이저 측정시스템의 DH파라메터의 캘리브레이션”, 한국정밀공학회, 2020
 
 <h2><mark style='background-color: #f1f8ff'>Language</mark></h2>
-* English Toeic Speaking(Advanced Low 170)
+* English Toeic Speaking(Advanced Mid 190)
 * Korean(native speaker)
 
 
