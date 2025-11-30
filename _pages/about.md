@@ -4,6 +4,7 @@ title: "Og Gyu Lee"
 layout: single 
 last_modified_at: 2024-10-11
 ---
+
 <h2><mark style='background-color: #f1f8ff'>Education</mark></h2>
 Ulsan National Institute of Science and Tech(UNIST, 울산과학기술원)
 : **Master, Electrical Engineering**
@@ -14,25 +15,12 @@ University of Ulsan (울산대학교)
 : **Bachelor, Electrical Engineering**
 (2015 \~ 2020)
 
-
-<h2><mark style='background-color: #f1f8ff'>Course Work</mark></h2>
-* Image Processing                   (2021)
-* Computer Vision                    (2021)      
-* 3D vision and Machine Perception   (2021)       
-* Deep Learning Principals           (2021)       
-* Advanced Machine Learning          (2022)
-* AI toolkits                        (2022)  
-* 3D Brain shape analysis            (2022)  
-
-
-
 <h2><mark style='background-color: #f1f8ff'>Projects</mark></h2>
-
 1. **철강 공정 머신비전 프로젝트 수행**
 : (2023 \~ 현재)
     * CCTV 기반 고온 환경 산업재의 치수 측정 및 결함 유형 자동 분류 시스템 개발 과제 수행 (Machine Vision, 2025)
     * Lidar 드론 및 딥러닝 기반 대규모 공간의 부피 산정 자동화 알고리즘 개발 과제 수행(3D Point Cloud, 2025)
-    * CCTV 인프라를 활용한 고온 산업재 생산 환경 맞춤 비전 시스템 개발 과제 수행 (OpenCV, Machine Vision, 2024)
+    * CCTV 인프라를 활용한 고온 산업재 생산 환경 맞춤 비전 알고리즘 개발 과제 수행 (OpenCV, Machine Vision, 2024)
     * AI 활용 산업재 결함 분류 과제 수행 (Deep Learning, 2024)
 
 2. **딥러닝 기반 유리 왜곡 모델링 및 영상 복원 기술 개발(NRF)**
@@ -59,6 +47,16 @@ the workers have to connect those pipes and this process is done manually by wor
     * 3-Axis laser robot calibration 
     * Motor speed control
     * C++, MATLAB, QT(gui program)
+
+
+<h2><mark style='background-color: #f1f8ff'>Course Work</mark></h2>
+* Image Processing                   (2021)
+* Computer Vision                    (2021)      
+* 3D vision and Machine Perception   (2021)       
+* Deep Learning Principals           (2021)       
+* Advanced Machine Learning          (2022)
+* AI toolkits                        (2022)  
+* 3D Brain shape analysis            (2022)  
 
 
 
