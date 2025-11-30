@@ -30,9 +30,10 @@ University of Ulsan (울산대학교)
 
 1. **철강 공정 머신비전 프로젝트 수행**
 : (2023 \~ 현재)
-    * 3차원 부피 측정 관련 프로젝트 진행  (point cloud, 3D)
-    * CCTV 활용 철강제품 머신비전 프로젝트 진행 (OpenCV, machine vision)
-    * AI 활용 결함 분류 프로젝트 진행 (CNN, Classification, Pytorch)   
+    * CCTV 기반 고온 환경 산업재의 치수 측정 및 결함 유형 자동 분류 시스템 개발 과제 수행 (Machine Vision, 2025)
+    * Lidar 드론 및 딥러닝 기반 대규모 공간의 부피 산정 자동화 알고리즘 개발 과제 수행(3D Point Cloud, 2025)
+    * CCTV 인프라를 활용한 고온 산업재 생산 환경 맞춤 비전 시스템 개발 과제 수행 (OpenCV, Machine Vision, 2024)
+    * AI 활용 산업재 결함 분류 과제 수행 (Deep Learning, 2024)
 
 2. **딥러닝 기반 유리 왜곡 모델링 및 영상 복원 기술 개발(NRF)**
 : (2021 \~ 2023)
